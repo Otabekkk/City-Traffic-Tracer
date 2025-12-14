@@ -7,7 +7,7 @@
 ---
 
 ## Frontend
-![Frontend](https://github.com/Otabekkk/City-Traffic-Tracer-Frontend)
+(https://github.com/Otabekkk/City-Traffic-Tracer-Frontend)
 
 
 ---
