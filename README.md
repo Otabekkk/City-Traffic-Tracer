@@ -141,4 +141,4 @@ Smart City проектах и при транспортном планиров�
 Otabek - Backend |
 Bekmyrza - Simulation |
 Asel - Frontend / UX |
-Yana, Sanjar - Pitch / Design |
+Yana, Sanjar - Pitch / Design
