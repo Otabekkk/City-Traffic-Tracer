@@ -16,7 +16,7 @@ We provide a platform where traffic engineers can:
 - compare metrics before deployment
 
 ## ▶ Simulation Playback
-![Playback](screenshots/Simulation.mp4)
+![Playback](screenshots/Simulation.gif)
 
 Playback helps understand *why* a configuration works better.
 
