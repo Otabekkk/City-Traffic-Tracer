@@ -1,24 +1,36 @@
 # 🚦 Smart Traffic Simulator for Bishkek
 
-A platform for testing traffic light configurations
-using real microscopic traffic simulation (SUMO).
+Платформа для тестирования и сравнения настроек светофоров
+на основе реальной микроскопической транспортной симуляции (SUMO)
+перед внедрением изменений в городе.
 
-![Demo Backend](screenshots/1.png)
+## ❗ Проблема
 
-## 🚀 Problem
-Traffic light changes are usually applied directly in real cities,
-which is risky and expensive.
+Во многих городах изменения в работе светофоров
+вносятся напрямую «вживую» — без предварительного тестирования.
 
-## 💡 Solution
-We provide a platform where traffic engineers can:
-- configure traffic light phases
-- simulate traffic behavior
-- compare metrics before deployment
+Это приводит к:
+- неожиданным пробкам
+- увеличению времени ожидания
+- недовольству водителей и жителей
+- сложностям с откатом неудачных решений
+
+Особенно это актуально для городов с растущим транспортным потоком,
+таких как Бишкек.
+
+
+![Demo API](screenshots/1.png)
+Используя наш API, вы тестируете платформы на светофоре (Чуй/Юсупа Абдурахманова)
+![Map](screenshots/3.png)
+
 
 ## ▶ Simulation Playback
 ![Playback](screenshots/Simulation.gif)
-
 Playback helps understand *why* a configuration works better.
+
+
+
+
 
 ## 🏙 Focus
 The project is focused on **Bishkek**, but can be adapted to any city.
