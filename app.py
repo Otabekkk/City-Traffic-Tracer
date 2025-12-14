@@ -25,18 +25,6 @@ def get_traffic_lights():
         "traffic_lights": list_traffic_lights()
     }
 
-
-# @app.get("/traffic-lights/{tl_id}")
-# def get_traffic_light(tl_id: str):
-#     phases = get_traffic_light_phases(tl_id)
-#     baseline = simulate_with_user_phases(tl_id, user_phases={})
-
-#     return {
-#         "traffic_light_id": tl_id,
-#         "phases": phases,
-#         "baseline": baseline
-#     }
-
 @app.get("/traffic-lights/{tl_id}")
 def get_traffic_light(tl_id: str):
     phases = get_traffic_light_phases(tl_id)
