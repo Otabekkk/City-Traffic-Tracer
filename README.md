@@ -6,6 +6,12 @@
 
 ---
 
+## Frontend
+[![React]](https://github.com/Otabekkk/City-Traffic-Tracer-Frontend)
+
+
+---
+
 ## 🌍 Реалистичность симуляции
 
 Платформа использует SUMO —  
@@ -205,3 +211,9 @@ Bekmyrza — Simulation
 Asel — Frontend / UX  
 Sanjar — Product Manager && Strategist 
 Asel && Yana — Pitch / Design
+
+**🚦 Оптимизируем города вместе! 🚦**
+
+[![Made with SUMO](https://img.shields.io/badge/Made%20with-SUMO-orange.svg)](https://sumo.dlr.de/)
+[![Powered by FastAPI](https://img.shields.io/badge/Powered%20by-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
+</div>
