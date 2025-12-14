@@ -129,13 +129,13 @@ def compare(tl_id: str, payload: TrafficLightPhasesRequest):
         "baseline": {
             "avg_queue": baseline["avg_queue"],
             "avg_waiting_time": baseline["avg_waiting_time"],
-            "timeline": baseline["timeline"]
+            # "timeline": baseline["timeline"]
         },
 
         "custom": {
             "avg_queue": custom["avg_queue"],
             "avg_waiting_time": custom["avg_waiting_time"],
-            "timeline": custom["timeline"]
+            # "timeline": custom["timeline"]
         },
 
         "comparison": {
