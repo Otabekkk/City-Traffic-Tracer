@@ -212,6 +212,7 @@ Asel — Frontend / UX
 Sanjar — Product Manager && Strategist 
 Asel && Yana — Pitch / Design
 
+<div align="center">
 **🚦 Оптимизируем города вместе! 🚦**
 
 [![Made with SUMO](https://img.shields.io/badge/Made%20with-SUMO-orange.svg)](https://sumo.dlr.de/)
