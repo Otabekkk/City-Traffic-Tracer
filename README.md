@@ -24,14 +24,7 @@ Smart City проектах и при транспортном планиров�
 
 ## 🏗️ Архитектура
 
-```
-┌─────────────────┐          ┌──────────────────┐          ┌─────────────────┐
-│                 │          │                  │          │                 │
-│  React Frontend │◄────────►│  FastAPI Backend │◄────────►│   SUMO Engine   │
-│   (Vite + UI)   │   HTTP   │  (REST API)      │  TraCI   │   (Simulation)  │
-│                 │          │                  │          │                 │
-└─────────────────┘          └──────────────────┘          └─────────────────┘
-```
+![arch](screenshots/9.png)
 
 ## API
 ![Demo API](screenshots/1.png)
@@ -58,7 +51,7 @@ Smart City проектах и при транспортном планиров�
 ## Сравнить с текущими фазами светофора свои настройки
 ![Phases](screenshots/6.png)
 ------------------------------------------------------
-![Results](image.png)
+![Results](screenshots/8.png)
 
 
 ## INFO - Светофор в SUMO
