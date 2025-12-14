@@ -211,6 +211,7 @@ Asel — Frontend / UX
 Sanjar — Product Manager && Strategist 
 Bekmyrza — Simulation  
 
+---
 
 <div align="center">
 **🚦 Оптимизируем города вместе! 🚦**
