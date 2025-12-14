@@ -205,12 +205,12 @@ Smart City проектах и при транспортном планиров�
 ---
 
 ## ^^ Команда
-
+Asel && Yana — Pitch / Design
 Otabek — Backend  
-Bekmyrza — Simulation  
 Asel — Frontend / UX  
 Sanjar — Product Manager && Strategist 
-Asel && Yana — Pitch / Design
+Bekmyrza — Simulation  
+
 
 <div align="center">
 **🚦 Оптимизируем города вместе! 🚦**
