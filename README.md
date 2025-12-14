@@ -208,7 +208,7 @@ Smart City проектах и при транспортном планиров�
 Asel - Design / UX  
 Yana — Pitch /  Design  
 Otabek — Backend / SUMO / Simulation  
-Sanjar — Product Manager && Strategist   
+Sanjar — Product Manager / Strategist   
 Bekmyrza —  Design / Frontend 
 
 ---
