@@ -36,7 +36,7 @@ Smart City проектах и при транспортном планиров�
 ## API
 ![Demo API](screenshots/1.png)
 
-## Используя наш API, вы тестируете платформы на светофоре (Чуй/Юсупа Абдурахманова)
+## Используя наш API, вы тестируете платформы на светофоре (Чуй/Юсупа Абдрахманова)
 ![Map](screenshots/3.png)
 
 ## ▶ Simulation Playback
@@ -138,7 +138,7 @@ Smart City проектах и при транспортном планиров�
 
 
 ## 👥 Team
-Otabek - Backend 
-Bekmyrza - Simulation
-Asel - Frontend / UX
-Yana, Sanjar - Pitch / Design
+Otabek - Backend |
+Bekmyrza - Simulation |
+Asel - Frontend / UX |
+Yana, Sanjar - Pitch / Design |
