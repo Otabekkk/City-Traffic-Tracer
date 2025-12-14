@@ -321,10 +321,10 @@ Smart City проектах и при транспортном планиров�
 
 ---
 
-## 👥 Team
+## ^^ Команда
 
 Otabek — Backend  
 Bekmyrza — Simulation  
 Asel — Frontend / UX  
-Sanjar — Product Manager  
+Sanjar — Product Manager && Strategist 
 Asel && Yana — Pitch / Design
